@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,mongodb,ts,vite,r,nodejs,matlab,git" />
   </a>
 </p>
 <br>
@@ -32,9 +32,6 @@
 <p align="center">  
   <a href="https://www.linkedin.com/in/juan-david-cortés-amador-648435280/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
-  </a>
-  <a href="https://www.instagram.com/darknlostboi/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30">
   </a>
   <a href="https://discord.com/users/its.david13" target="_blank">
     <img align="center" src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="30">
