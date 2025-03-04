@@ -5,7 +5,7 @@
 <h2 align="center">Sobre mí</h2>
 <br>
 
-<p align="center">Soy estudiante de Ingeniería de Sistemas en la Universidad Nacional de Colombia. Apasionado por el desarrollo front-end.</p>
+<p align="center">Estudiante de Ingeniería de Sistemas e Informática en la Universidad Nacional de Colombia. Con un interés especial por la Inteligencia Artificial, Análisis de Datos y Desarrollo Web. Poseo además, conocimientos en Bases de Datos, Análisis y Evaluación Integral de Proyectos, Análitica y Dinámica de Sistemas. A través de mi experiencia universitaria, he podido desarrollar competencias como el trabajo en equipo, gestión del cambio, gestión del tiempo y la proactividad.</p>
 
 <br>
 
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,mongodb,ts,vite,r,nodejs,matlab,git" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,mongodb,ts,vite,r,nodejs,matlab,git,sklearn,tensorflow,opencv,vscode" />
   </a>
 </p>
 <br>
